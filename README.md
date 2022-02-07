@@ -11,8 +11,6 @@ This git repository contains files related to the computational part of the arti
 
 **• FreitasSiksek.sage** : To compute FreitasSiksek bounds, PARI/GP.
 
-**• Eq1d5.mg** :  The code used in Theorem 7.1., in Magma.
-
 **• Case_d6.mg** :  The code used in Theorem +++., in Magma.
 
 **• Case_d10.mg** :  The code used in Theorem +++., in Magma.
