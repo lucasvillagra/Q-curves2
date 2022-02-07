@@ -21,3 +21,4 @@ This git repository contains files related to the computational part of the arti
 
 **• Case_d129.mg** :  The code used in Theorem +++., in Magma.
 
+**• Case129.gp** :  The code used in Theorem +++., in PARI/GP.
