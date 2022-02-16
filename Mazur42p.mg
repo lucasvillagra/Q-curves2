@@ -37,7 +37,7 @@ return(list);
 end function;
 
 
-/* This are internal routines used in the previous script. The first one is needed to compute values of the character chi on the coefficient field of the newform
+/* These are internal routines used in the previous script. The first one is needed to compute values of the character chi on the coefficient field of the newform
 */
 
 AdjoinRoot := function(K, p: DoLinearExtension := false)
