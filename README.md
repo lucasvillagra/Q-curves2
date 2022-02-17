@@ -8,7 +8,7 @@ This git repository contains files related to the computational part of the arti
 
 **• Ellenberg.gp** : To compute Ellenberg's bound for Theorem 5.5, in PARI/GP.
 
-**• FreitasSiksek.sage** : To compute the bounds of Theorem 1 of Freitas-Siksek, in sage.
+**• FreitasSiksek.sage** : To compute the bounds of Theorem 1 of Freitas-Siksek, in Sage.
 
 **• Case_d6.mg** :  The code used in Theorem 5.1, in Magma.
 
