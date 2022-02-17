@@ -12,9 +12,9 @@ This git repository contains files related to the computational part of the arti
 
 **• Case_d6.mg** :  The code used in Theorem 5.1, in Magma.
 
-**• Case_d10.mg** :  The code used in Theorem 5.2., in Magma.
+**• Case_d10.mg** :  The code used in Theorem 5.2, in Magma.
 
-**• Case_d11.mg** :  The code used in Theorem 5.3., in Magma.
+**• Case_d11.mg** :  The code used in Theorem 5.3, in Magma.
 
 **• Case_d19.mg** :  The code used in Theorem 5.4, in Magma.
 
