@@ -26,7 +26,7 @@ This git repository contains files related to the computational part of the arti
 
 **• table5.gp** :  The code used to compute Table 2.5, in PARI/GP.
 
-**• Outputs.txt** :  A file that shows some of the computations made using the codes "Case_d6.mg, Case_d10.mg, Case_d11.mg, Case_d19.mg, Case_d129.mg".
+**• Outputs.txt** :  A file that shows some of the computations made using the codes "Case_dn.mg", for n=6,10,11,19,129.
 
 **• SageOutputs.txt** :  The outputs of "FreitasSiksek.sage".
 
