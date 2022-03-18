@@ -6,7 +6,7 @@ This git repository contains files related to the computational part of the arti
 
 **• Mazur42p.mg** : To run Mazur's trick, in Magma.
 
-**• Ellenberg.gp** : To compute Ellenberg's bound for Theorem 5.5, in PARI/GP.
+**• RemoveCM.gp** : To compute Ellenberg's bound for Theorem 5.5, in PARI/GP.
 
 **• FreitasSiksek.sage** : To compute the bounds of Theorem 1 of Freitas-Siksek, in Sage.
 
